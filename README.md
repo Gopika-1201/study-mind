@@ -44,7 +44,7 @@ studymind/
 └── vite.config.ts
 
 🌐 Live Demo
-🔗 studymind-yourname.vercel.app
+🔗 https://studymind-ai-ecru.vercel.app/
 
 🏆 Hackathon
 This project was built for the CodeSprout Beginner's Hackathon 2026
